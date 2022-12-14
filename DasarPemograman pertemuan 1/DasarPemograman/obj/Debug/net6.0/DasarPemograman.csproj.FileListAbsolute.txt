@@ -1,0 +1,15 @@
+C:\Users\acer\OneDrive\Desktop\DasarPemograman\bin\Debug\net6.0\DasarPemograman.exe
+C:\Users\acer\OneDrive\Desktop\DasarPemograman\bin\Debug\net6.0\DasarPemograman.deps.json
+C:\Users\acer\OneDrive\Desktop\DasarPemograman\bin\Debug\net6.0\DasarPemograman.runtimeconfig.json
+C:\Users\acer\OneDrive\Desktop\DasarPemograman\bin\Debug\net6.0\DasarPemograman.dll
+C:\Users\acer\OneDrive\Desktop\DasarPemograman\bin\Debug\net6.0\DasarPemograman.pdb
+C:\Users\acer\OneDrive\Desktop\DasarPemograman\obj\Debug\net6.0\DasarPemograman.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\DasarPemograman\obj\Debug\net6.0\DasarPemograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Desktop\DasarPemograman\obj\Debug\net6.0\DasarPemograman.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Desktop\DasarPemograman\obj\Debug\net6.0\DasarPemograman.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Desktop\DasarPemograman\obj\Debug\net6.0\DasarPemograman.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\DasarPemograman\obj\Debug\net6.0\DasarPemograman.dll
+C:\Users\acer\OneDrive\Desktop\DasarPemograman\obj\Debug\net6.0\refint\DasarPemograman.dll
+C:\Users\acer\OneDrive\Desktop\DasarPemograman\obj\Debug\net6.0\DasarPemograman.pdb
+C:\Users\acer\OneDrive\Desktop\DasarPemograman\obj\Debug\net6.0\DasarPemograman.genruntimeconfig.cache
+C:\Users\acer\OneDrive\Desktop\DasarPemograman\obj\Debug\net6.0\ref\DasarPemograman.dll

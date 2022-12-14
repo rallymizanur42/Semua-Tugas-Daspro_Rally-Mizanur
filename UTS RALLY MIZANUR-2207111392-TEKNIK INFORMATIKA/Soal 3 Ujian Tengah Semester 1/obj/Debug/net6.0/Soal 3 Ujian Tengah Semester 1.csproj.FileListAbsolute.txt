@@ -1,0 +1,30 @@
+C:\Users\ACER\Pictures\uts\Soal 3 Ujian Tengah Semester 1\bin\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.exe
+C:\Users\ACER\Pictures\uts\Soal 3 Ujian Tengah Semester 1\bin\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.deps.json
+C:\Users\ACER\Pictures\uts\Soal 3 Ujian Tengah Semester 1\bin\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.runtimeconfig.json
+C:\Users\ACER\Pictures\uts\Soal 3 Ujian Tengah Semester 1\bin\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.dll
+C:\Users\ACER\Pictures\uts\Soal 3 Ujian Tengah Semester 1\bin\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.pdb
+C:\Users\ACER\Pictures\uts\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.csproj.AssemblyReference.cache
+C:\Users\ACER\Pictures\uts\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Pictures\uts\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.AssemblyInfoInputs.cache
+C:\Users\ACER\Pictures\uts\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.AssemblyInfo.cs
+C:\Users\ACER\Pictures\uts\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Pictures\uts\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.dll
+C:\Users\ACER\Pictures\uts\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\refint\Soal 3 Ujian Tengah Semester 1.dll
+C:\Users\ACER\Pictures\uts\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.pdb
+C:\Users\ACER\Pictures\uts\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.genruntimeconfig.cache
+C:\Users\ACER\Pictures\uts\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\ref\Soal 3 Ujian Tengah Semester 1.dll
+C:\Users\ACER\Pictures\UTS RALLY MIZANUR-2207111392-TEKNIK INFORMATIKA\Soal 3 Ujian Tengah Semester 1\bin\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.exe
+C:\Users\ACER\Pictures\UTS RALLY MIZANUR-2207111392-TEKNIK INFORMATIKA\Soal 3 Ujian Tengah Semester 1\bin\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.deps.json
+C:\Users\ACER\Pictures\UTS RALLY MIZANUR-2207111392-TEKNIK INFORMATIKA\Soal 3 Ujian Tengah Semester 1\bin\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.runtimeconfig.json
+C:\Users\ACER\Pictures\UTS RALLY MIZANUR-2207111392-TEKNIK INFORMATIKA\Soal 3 Ujian Tengah Semester 1\bin\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.dll
+C:\Users\ACER\Pictures\UTS RALLY MIZANUR-2207111392-TEKNIK INFORMATIKA\Soal 3 Ujian Tengah Semester 1\bin\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.pdb
+C:\Users\ACER\Pictures\UTS RALLY MIZANUR-2207111392-TEKNIK INFORMATIKA\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.csproj.AssemblyReference.cache
+C:\Users\ACER\Pictures\UTS RALLY MIZANUR-2207111392-TEKNIK INFORMATIKA\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Pictures\UTS RALLY MIZANUR-2207111392-TEKNIK INFORMATIKA\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.AssemblyInfoInputs.cache
+C:\Users\ACER\Pictures\UTS RALLY MIZANUR-2207111392-TEKNIK INFORMATIKA\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.AssemblyInfo.cs
+C:\Users\ACER\Pictures\UTS RALLY MIZANUR-2207111392-TEKNIK INFORMATIKA\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Pictures\UTS RALLY MIZANUR-2207111392-TEKNIK INFORMATIKA\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.dll
+C:\Users\ACER\Pictures\UTS RALLY MIZANUR-2207111392-TEKNIK INFORMATIKA\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\refint\Soal 3 Ujian Tengah Semester 1.dll
+C:\Users\ACER\Pictures\UTS RALLY MIZANUR-2207111392-TEKNIK INFORMATIKA\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.pdb
+C:\Users\ACER\Pictures\UTS RALLY MIZANUR-2207111392-TEKNIK INFORMATIKA\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\Soal 3 Ujian Tengah Semester 1.genruntimeconfig.cache
+C:\Users\ACER\Pictures\UTS RALLY MIZANUR-2207111392-TEKNIK INFORMATIKA\Soal 3 Ujian Tengah Semester 1\obj\Debug\net6.0\ref\Soal 3 Ujian Tengah Semester 1.dll

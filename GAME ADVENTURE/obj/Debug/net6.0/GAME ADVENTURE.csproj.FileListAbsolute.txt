@@ -1,0 +1,30 @@
+C:\Users\ACER\Desktop\GAME ADVENTURE\bin\Debug\net6.0\GAME ADVENTURE.exe
+C:\Users\ACER\Desktop\GAME ADVENTURE\bin\Debug\net6.0\GAME ADVENTURE.deps.json
+C:\Users\ACER\Desktop\GAME ADVENTURE\bin\Debug\net6.0\GAME ADVENTURE.runtimeconfig.json
+C:\Users\ACER\Desktop\GAME ADVENTURE\bin\Debug\net6.0\GAME ADVENTURE.dll
+C:\Users\ACER\Desktop\GAME ADVENTURE\bin\Debug\net6.0\GAME ADVENTURE.pdb
+C:\Users\ACER\Desktop\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.AssemblyInfo.cs
+C:\Users\ACER\Desktop\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.dll
+C:\Users\ACER\Desktop\GAME ADVENTURE\obj\Debug\net6.0\refint\GAME ADVENTURE.dll
+C:\Users\ACER\Desktop\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.pdb
+C:\Users\ACER\Desktop\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.genruntimeconfig.cache
+C:\Users\ACER\Desktop\GAME ADVENTURE\obj\Debug\net6.0\ref\GAME ADVENTURE.dll
+D:\Semua Tugas Daspro\GAME ADVENTURE\bin\Debug\net6.0\GAME ADVENTURE.exe
+D:\Semua Tugas Daspro\GAME ADVENTURE\bin\Debug\net6.0\GAME ADVENTURE.deps.json
+D:\Semua Tugas Daspro\GAME ADVENTURE\bin\Debug\net6.0\GAME ADVENTURE.runtimeconfig.json
+D:\Semua Tugas Daspro\GAME ADVENTURE\bin\Debug\net6.0\GAME ADVENTURE.dll
+D:\Semua Tugas Daspro\GAME ADVENTURE\bin\Debug\net6.0\GAME ADVENTURE.pdb
+D:\Semua Tugas Daspro\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.csproj.AssemblyReference.cache
+D:\Semua Tugas Daspro\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semua Tugas Daspro\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.AssemblyInfoInputs.cache
+D:\Semua Tugas Daspro\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.AssemblyInfo.cs
+D:\Semua Tugas Daspro\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.csproj.CoreCompileInputs.cache
+D:\Semua Tugas Daspro\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.dll
+D:\Semua Tugas Daspro\GAME ADVENTURE\obj\Debug\net6.0\refint\GAME ADVENTURE.dll
+D:\Semua Tugas Daspro\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.pdb
+D:\Semua Tugas Daspro\GAME ADVENTURE\obj\Debug\net6.0\GAME ADVENTURE.genruntimeconfig.cache
+D:\Semua Tugas Daspro\GAME ADVENTURE\obj\Debug\net6.0\ref\GAME ADVENTURE.dll

@@ -1,0 +1,30 @@
+C:\Users\ACER\Desktop\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Game Battle Tank\bin\Debug\net6.0\Game Battle Tank.exe
+C:\Users\ACER\Desktop\Game Battle Tank\bin\Debug\net6.0\Game Battle Tank.deps.json
+C:\Users\ACER\Desktop\Game Battle Tank\bin\Debug\net6.0\Game Battle Tank.runtimeconfig.json
+C:\Users\ACER\Desktop\Game Battle Tank\bin\Debug\net6.0\Game Battle Tank.dll
+C:\Users\ACER\Desktop\Game Battle Tank\bin\Debug\net6.0\Game Battle Tank.pdb
+C:\Users\ACER\Desktop\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.dll
+C:\Users\ACER\Desktop\Game Battle Tank\obj\Debug\net6.0\refint\Game Battle Tank.dll
+C:\Users\ACER\Desktop\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.pdb
+C:\Users\ACER\Desktop\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Game Battle Tank\obj\Debug\net6.0\ref\Game Battle Tank.dll
+C:\Users\ACER\Documents\Dasar Pemograman\Game Battle Tank\bin\Debug\net6.0\Game Battle Tank.exe
+C:\Users\ACER\Documents\Dasar Pemograman\Game Battle Tank\bin\Debug\net6.0\Game Battle Tank.deps.json
+C:\Users\ACER\Documents\Dasar Pemograman\Game Battle Tank\bin\Debug\net6.0\Game Battle Tank.runtimeconfig.json
+C:\Users\ACER\Documents\Dasar Pemograman\Game Battle Tank\bin\Debug\net6.0\Game Battle Tank.dll
+C:\Users\ACER\Documents\Dasar Pemograman\Game Battle Tank\bin\Debug\net6.0\Game Battle Tank.pdb
+C:\Users\ACER\Documents\Dasar Pemograman\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Dasar Pemograman\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\Dasar Pemograman\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\Dasar Pemograman\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.AssemblyInfo.cs
+C:\Users\ACER\Documents\Dasar Pemograman\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Dasar Pemograman\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.dll
+C:\Users\ACER\Documents\Dasar Pemograman\Game Battle Tank\obj\Debug\net6.0\refint\Game Battle Tank.dll
+C:\Users\ACER\Documents\Dasar Pemograman\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.pdb
+C:\Users\ACER\Documents\Dasar Pemograman\Game Battle Tank\obj\Debug\net6.0\Game Battle Tank.genruntimeconfig.cache
+C:\Users\ACER\Documents\Dasar Pemograman\Game Battle Tank\obj\Debug\net6.0\ref\Game Battle Tank.dll
